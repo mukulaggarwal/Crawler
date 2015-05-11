@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/cssparser-0.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/hamcrest-all-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/htmlunit-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/htmlunit-core-js-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/jmock-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/jmock-junit3-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/jna.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/nekohtml-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/selenium-java-2.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/webdriver-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/jars files/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
